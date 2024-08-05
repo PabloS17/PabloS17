@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a Computer Science Engineering student. During my studies, I have had the opportunity to work in and study many fields,
+such as application development, quality assurance, and database management. I have worked with numerous technologies
+throughout my career, including various languages, frameworks, and databases. I am excited to put into use all the knowledge
+and skills I have acquired over the years, and I am open to exploring the different fields and challenges that the real world has
+to offer.
